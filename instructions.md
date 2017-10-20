@@ -9,6 +9,8 @@ This issue is reserved for people who never contributed to Open Source before. W
 
 If you haven’t yet, sign up for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) to earn an exclusive T-Shirt. Plus I’m sure we can teach you a cool trick or two in the process
 
+Already commited this change to master but now, creating a new branch.
+
 
 ### 🤔 What you will need to know.
 
