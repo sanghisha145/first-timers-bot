@@ -14,6 +14,7 @@ Nothing. This issue is meant to welcome you to Open Source :) We are happy to wa
 - [ ] 🙋 **Claim this issue**: Comment below.
 
   Once claimed we add you as contributor to this repository.
+  Hello all, I am able to edit this file, yipeee
 
 - [ ] 👌 **Accept our invitation** to this repository. Once accepted, assign yourself to this issue
 
